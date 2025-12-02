@@ -1,5 +1,8 @@
-# MyBank-Pro
-⭐ MyBank Pro – Java-Based Bank Management System  MyBank Pro is a fully functional Bank Management &amp; ATM Simulation System built completely using Core Java (Swing) and MySQL. This project provides a realistic ATM interface where users can log in using their Card Number &amp; PIN, and perform various banking operations through an intuitive GUI.
+ ⭐ MyBank Pro – Java-Based Bank Management System
+
+MyBank Pro is a fully functional Bank Management & ATM Simulation System built completely using Core Java (Swing) and MySQL.
+This project provides a realistic ATM interface where users can log in using their Card Number & PIN, and perform various banking operations through an intuitive GUI.
+
 🖥️ Project Overview
 
 Project me 100% Java Swing ka use kiya gaya hai, jisme tumne ek real ATM machine UI create kiya hai, jaisa screenshot me dikh raha hai:
@@ -111,3 +114,17 @@ JDBC + SQL integration
 College mini/micro project
 
 Beginner-friendly OOP-based design
+
+📘 Screenshots (For GitHub)
+
+Upload these sections in your README:
+
+1️⃣ Login Page
+
+<img src="screenshots/login.png" width="600">
+
+2️⃣ ATM Dashboard
+
+<img src="screenshots/transaction.png" width="600">
+
+(Baaki pages bhi add kar sakte ho.)
