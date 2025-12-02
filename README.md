@@ -103,10 +103,9 @@ Java code database se **JDBC (mysql-connector)** ka use karke connect hota hai.
 ## 📘 Screenshots (For GitHub)
 
 Screenshots ko `screenshots/` folder me upload karein aur README me add karein:
- 
-<img width="1914" height="1021" alt="Screenshot 2025-12-02 173449" src="https://github.com/user-attachments/assets/cdeae68e-6022-4b64-8402-b08b3593e37a" />  
-
----
 
 <img width="1919" height="1012" alt="Screenshot 2025-12-02 173430" src="https://github.com/user-attachments/assets/e27a3790-57ab-45cc-b131-598b467bc84e" />
+ 
+---
 
+<img width="1914" height="1021" alt="Screenshot 2025-12-02 173449" src="https://github.com/user-attachments/assets/cdeae68e-6022-4b64-8402-b08b3593e37a" /> 
