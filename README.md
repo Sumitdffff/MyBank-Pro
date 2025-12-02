@@ -61,8 +61,10 @@ Java code database se **JDBC (mysql-connector)** ka use karke connect hota hai.
 - MySQL (XAMPP / WAMP / Localhost)  
 - JDBC Connector  
 
-### **Tools Used**
-- NetBeans  
+### **I Used**
+- NetBeans
+
+### **Also Used** 
 - IntelliJ IDEA (optional)  
 - VS Code (optional)  
 - MySQL Workbench / phpMyAdmin  
